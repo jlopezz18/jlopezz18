@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Juan 👋
 
-<!--
-**jlopezz18/jlopezz18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Software Developer focused on Backend architecture, relational and non-relational database persistence, and building robust web applications.
 
-Here are some ideas to get you started:
+🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🎓 Currently studying: Software Development & Computer Science fundamentals.
+
+    💡 Passionate about: Clean architecture, data integrity, and performant backend APIs.
+
+    📍 Based in: Spain.
+
+🔭 What I'm Currently Working On
+
+    🛠️ Designing hybrid persistence systems combining PostgreSQL and MongoDB.
+
+    📦 Containerizing services and local environments with Docker.
+
+    🌐 Building modern Full-Stack applications using Node.js, Express, and React.
+
+🛠️ Tech Stack & Tools
+
+      Backend & Core
+      Databases & ORMs
+      Frontend & UI
